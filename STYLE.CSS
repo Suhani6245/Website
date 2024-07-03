@@ -1,0 +1,76 @@
+.aboutme{
+    background-color: rgb(0, 0, 0);
+    font-size: 70px;
+    position: sticky;
+    top: 0px;
+    color: rgb(236, 214, 214);
+    text-align: center;
+}
+    
+.aboutme:hover{
+    color: black;
+    background-color: antiquewhite;
+}
+
+.contact,.edu,.skills,.proj,.exp,.name{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+h2{
+    font-family: monospace;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+}
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 19px;
+    color: rgb(0, 0, 0);
+}
+.email{
+    color: rgb(85, 85, 85);
+    text-decoration: none;
+}
+.email:hover{
+    color: blue;
+
+}
+.icons{
+    text-align: center;
+    text-decoration: none;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.fa-solid.fa-envelope-open-text.fa-3x{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding-right: 10px;
+}
+.fa-solid.fa-envelope-open-text.fa-3x:hover{
+    color: blue;
+}
+.fa-brands.fa-github.fa-3x{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding-right: 10px;
+}
+.fa-brands.fa-github.fa-3x:hover{
+    color:rgb(160, 242, 59)
+}
+.fa-brands.fa-square-x-twitter.fa-3x{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding-right: 10px;
+}
+.fa-brands.fa-square-x-twitter.fa-3x:hover{
+    color: darkred;
+}
+.fa-brands.fa-square-threads.fa-3x{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding-right: 10px;
+}
+.fa-brands.fa-square-threads.fa-3x:hover{
+    color:blueviolet;
+}
